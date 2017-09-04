@@ -5,3 +5,7 @@ I am glad to report your *git repository* is now ready.
 Thank you
 Regards,
 Nicolas Rizcalla
+
+## cours d'improvisation
+- mercredi 20-22h
+- jeudi 19h-21h
